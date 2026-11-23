@@ -11,7 +11,7 @@ Escolhemos redes e internet porque é a base de tudo o que a web faz: todo site,
 
 ## Integrantes e papéis
 
-| Nome | RM | O que construiu |
+| Nome | RGM | O que construiu |
 |------|----|-----------------|
 | Kauã Silva Mattoso | 46900446 | Página inicial e campo de nome (`index.html`, `js/inicio.js`) |
 | Nicolas Henrique Santana Caetano | 47408391 | Tela de jogo, pontuação e ranking (`jogo.html`, `js/jogo.js`) |
